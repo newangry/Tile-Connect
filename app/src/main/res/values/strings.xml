@@ -1,0 +1,186 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tile Connect Travel - Mega Fun</string>
+
+
+    <string name="Admob_app_id" translatable="false"></string>
+    <string name="AdUnitId_Banner" translatable="false"></string>
+
+    <string name="AdUnitId_InterstitialAd" translatable="false"></string>
+
+    <string name="AdUnitId_RewardedAdMoreSeconds" translatable="false"></string>
+    <string name="AdUnitId_RewardedAdRMOKind" translatable="false"></string>
+    <string name="AdUnitId_RewardedAdShuffle" translatable="false"></string>
+    <string name="AdUnitId_RewardedAdHint" translatable="false"></string>
+
+
+    <string name="policy_link" translatable="false">http://ghuyonline.webstarterz.com/TileConnectTravelPolicy.html</string>
+    <string name="ad" translatable="false">AD</string>
+
+    <!--    Splash Activity-->
+    <string name="loading">Loading...</string>
+    <string name="splash_des">Passing 15 levels to unlock next country</string>
+
+    <!--    Start Activity-->
+    <string name="best_score">BEST SCORE :</string>
+    <string name="play">PLAY</string>
+    <string name="theme">Theme</string>
+    <string name="shop">SHOP</string>
+    <string name="removeAd">Remove Ad</string>
+    <string name="relaxed">Relaxed</string>
+    <string name="hard">Hard</string>
+    <string name="easy">Easy</string>
+    <string name="high_score">High Score</string>
+    <string name="hard_score">Hard Score</string>
+    <string name="easy_score">Easy Score</string>
+    <string name="relax_score">Relax Score</string>
+
+    <!--    Main Activity-->
+    <string name="level">LEVEL</string>
+    <string name="score">SCORE</string>
+
+    <!--    Pause Dialog-->
+    <string name="pausing">PAUSING</string>
+    <string name="resume">RESUME</string>
+    <string name="newgame">NEW GAME</string>
+    <string name="howtoplay">HOW TO PLAY</string>
+
+    <!--    Level Complete Dialog-->
+    <string name="levell">LEVEL :</string>
+    <string name="time_bounce">TIME BONUS : </string>
+    <string name="currentmoney">CURRENT MONEY : </string>
+    <string name="nextlevel">NEXT LEVEL</string>
+    <string name="victory">VICTORY</string>
+    <string name="scoree">SCORE :</string>
+    <string name="bestscore">BEST SCORE : </string>
+    <string name="totalscore">TOTAL SCORE : </string>
+
+    <!--    Game Over Dialog-->
+    <string name="gameover">GAME OVER</string>
+    <string name="continuee">CONTINUE</string>
+
+    <!--    Exit Dialog-->
+    <string name="quit_game">DO YOU WANT TO QUIT GAME ?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <!--    Ad Dialog-->
+    <string name="timeout">TIME OUT!</string>
+    <string name="watch_short_video">Watch a short video to get 110 \n more second ? </string>
+
+    <!--    Ad purchase successfully -->
+    <string name="purchase_successfully">Congratulation for your successful payment. You received the following items:</string>
+    <string name="purchase_ok">OK</string>
+    <string name="purchase_ads_successfully">Congratulation for your successful payment. The ads have been removed.</string>
+
+    <!--    before_watch_video successfully -->
+    <string name="before_watch_video">Watch a short video ad to get more</string>
+
+    <!--    Video Play successfully -->
+    <string name="videoads_successfully">Congratulations on loading a successful Reward ad. You received the following items:</string>
+
+    <!--    Video Play 110 Seconds successfully -->
+    <string name="videoads110_successfully">Congratulations on loading a successful Reward ad. You received the more 110 second</string>
+
+    <!--    Use Heart Dialog-->
+    <string name="second_chance">SECOND CHANCE</string>
+    <string name="second_chance_des">You can use following  item to continue \n playing :</string>
+    <string name="nothanks">NO THANKS</string>
+
+    <!--    single card dialog-->
+    <string name="buy_now">Buy Now</string>
+
+    <!--    User Heart Dialog-->
+    <string name="user_heart_des">Watch video to remove one of animal kind!</string>
+
+    <!--    User Privacy Policy Dialog-->
+    <string name="data_policy">Data Policy</string>
+    <string name="accept_privacy_and_policy">Accept Privacy &amp; Policy</string>
+    <string name="accept">Accept</string>
+    <string name="learnmore">Learn More</string>
+    <string name="point_1">This app shows Advertisements from Admob. They collect data such as location and Advertising ID in order to show the best ads for you. By playing this app, you agree to this data policy!</string>
+
+    <!--    Purchase All Pack Dialog-->
+    <string name="suffle">Suffle</string>
+    <string name="hint">Hint</string>
+    <string name="oneKind">OneKind</string>
+    <string name="no_ads">No Ads</string>
+
+    <string name="no_internet">No Internet</string>
+
+    <string name="rateusbtn">Rate US</string>
+    <string name="backtogamebtn">Back To Game</string>
+
+    <string name="rate_app_text" tools:ignore="ExtraTranslation">RATE US</string>
+    <string name="rate_app_text2" tools:ignore="MissingTranslation">If you like this game so please rate and share it with friends. More fun when play together ^^</string>
+
+
+    <string name="around_the_world">Play</string>
+    <string name="around_the_world_home">Around the World</string>
+    <string name="around_the_sparkela">Around the Sparkela</string>
+    <string name="adventure">Adventure</string>
+    <string name="classic">Classic</string>
+
+
+
+    <string name="asia">Asia</string>
+    <string name="europe">Europe</string>
+    <string name="america">America</string>
+    <string name="australia">Australia</string>
+    <string name="africa">Africa</string>
+
+
+    <string name="india">India</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="japan">Japan</string>
+    <string name="korea">Korea</string>
+    <string name="russia">Russia</string>
+    <string name="thailand">Thailand</string>
+    <string name="vietNam">VietNam</string>
+    <string name="belgium">Belgium</string>
+    <string name="france">France</string>
+    <string name="germany">Germany</string>
+    <string name="greece">Greece</string>
+    <string name="ireland">Ireland</string>
+    <string name="italy">Italy</string>
+    <string name="portugal">Portugal</string>
+    <string name="spain">Spain</string>
+    <string name="netherlands">Netherlands</string>
+    <string name="uk">UK</string>
+    <string name="argentina">Argentina</string>
+    <string name="brazil">Brazil</string>
+    <string name="canada">Canada</string>
+    <string name="colombia">Colombia</string>
+    <string name="mexico">Mexico</string>
+    <string name="peru">Peru</string>
+    <string name="usa">USA</string>
+    <string name="moroco">Moroco</string>
+    <string name="south_africa">South Africa</string>
+
+
+    <string name="animal">Animal</string>
+    <string name="bike">Bike</string>
+    <string name="buiding">Buiding</string>
+    <string name="candy">Candy</string>
+    <string name="car">Car</string>
+    <string name="diamond">Diamond</string>
+    <string name="fans">Fans</string>
+    <string name="flight">Flight</string>
+    <string name="food">Food</string>
+    <string name="fruit">Fruit</string>
+    <string name="jungle">Jungle</string>
+    <string name="motor">Motor</string>
+    <string name="ocean">Ocean</string>
+    <string name="ocean_animal">Ocean Animal</string>
+    <string name="phone">Phone</string>
+    <string name="planet">Planet</string>
+    <string name="sea_food">Sea Food</string>
+    <string name="ship">Ship</string>
+    <string name="smile">Smile</string>
+    <string name="train">Train</string>
+
+    <string name="back_to_past_version">Back To Past Version</string>
+    <string name="you_have_unlock_next_sparkela">Unlock next %1$s level</string>
+    <string name="will_unlock_when_country_has_15_starts">Will unlock when %1$s has 15 stars</string>
+
+
+</resources>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tile Connect Travel - Mega Fun</string>
+
+
+    <!--    Splash Activity-->
+    <string name="loading">Loading...</string>
+    <string name="splash_des">Passing 15 levels to unlock next country</string>
+
+    <!--    Start Activity-->
+    <string name="best_score">BEST SCORE :</string>
+    <string name="play">PLAY</string>
+    <string name="theme">Theme</string>
+    <string name="shop">SHOP</string>
+    <string name="removeAd">Remove Ad</string>
+    <string name="hard">Hard</string>
+    <string name="easy">Easy</string>
+    <string name="high_score">High Score</string>
+    <string name="hard_score">Hard Score</string>
+    <string name="easy_score">Easy Score</string>
+
+
+    <!--    Main Activity-->
+    <string name="level">LEVEL</string>
+    <string name="score">SCORE</string>
+
+
+    <!--    Pause Dialog-->
+    <string name="pausing">PAUSING</string>
+    <string name="resume">RESUME</string>
+    <string name="newgame">NEW GAME</string>
+    <string name="howtoplay">HOW TO PLAY</string>
+
+
+    <!--    Level Complete Dialog-->
+    <string name="levell">LEVEL :</string>
+    <string name="time_bounce">TIME BONUS : </string>
+    <string name="currentmoney">CURRENT MONEY : </string>
+    <string name="nextlevel">NEXT LEVEL</string>
+    <string name="victory">VICTORY</string>
+
+
+    <!--    Game Over Dialog-->
+    <string name="gameover">GAME OVER</string>
+    <string name="continuee">CONTINUE</string>
+
+
+    <!--    Exit Dialog-->
+    <string name="quit_game">DO YOU WANT TO QUIT GAME ?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+
+    <!--    Ad Dialog-->
+    <string name="timeout">TIME OUT!</string>
+    <string name="watch_short_video">Watch a short video to get 110 \n more second ? </string>
+
+
+    <!--    Ad purchase successfully -->
+    <string name="purchase_successfully" translatable="false">Congratulation for your successful payment. You received the following items:</string>
+    <string name="purchase_ok" translatable="false">OK</string>
+    <string name="purchase_ads_successfully" translatable="false">Congratulation for your successful payment. The ads have been removed.</string>
+
+
+
+    <!--    Use Heart Dialog-->
+    <string name="second_chance">SECOND CHANCE</string>
+    <string name="second_chance_des">You can use following  item to continue \n playing :</string>
+    <string name="nothanks">NO THANKS</string>
+
+    <!--    single card dialog-->
+    <string name="buy_now">Buy Now</string>
+
+
+    <!--    User Heart Dialog-->
+    <string name="user_heart_des">Watch video to remove one of animal kind!</string>
+
+    <string name="rateusbtn">Rate US</string>
+    <string name="backtogamebtn">Back To Game</string>
+
+    <!--    before_watch_video successfully -->
+    <string name="before_watch_video" translatable="false">Watch a short video ad to get more</string>
+
+
+    <string name="rate_app_text">RATE US</string>
+    <string name="rate_app_text2">If you like this game so please rate and share it with friends. More fun when play together ^^</string>
+
+</resources>

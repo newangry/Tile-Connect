@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tile Connect Travel - Mega Fun</string>
+
+    <string name="policy_link" translatable="false">http://ghuyonline.webstarterz.com/Tileconnectstarpolicy.html</string>
+    <string name="ad">広告</string>
+
+    <!--    Splash Activity-->
+    <string name="loading">読み込んでいます...</string>
+    <string name="splash_des">15 レベルをクリアして次の国のロックを解除する</string>
+
+    <!--    Start Activity-->
+    <string name="around_the_world">遊ぶ</string>
+    <string name="best_score">最高のスコア ：</string>
+    <string name="play">演奏する</string>
+    <string name="theme">テーマ</string>
+    <string name="shop">店</string>
+    <string name="removeAd">広告を削除</string>
+    <string name="relaxed">リラックスした</string>
+    <string name="hard">難しい</string>
+    <string name="easy">簡単</string>
+    <string name="high_score">高得点</string>
+    <string name="hard_score">ハードスコア</string>
+    <string name="easy_score">イージースコア</string>
+    <string name="relax_score">リラックススコア</string>
+
+
+    <string name="asia">アジア</string>
+    <string name="europe">ヨーロッパ</string>
+    <string name="america">アメリカ</string>
+    <string name="australia">オーストラリア</string>
+    <string name="africa">アフリカ</string>
+
+    <!--    Main Activity-->
+    <string name="level">レベル</string>
+    <string name="score">スコア</string>
+
+    <!--    Pause Dialog-->
+    <string name="pausing">一時停止</string>
+    <string name="resume">履歴書</string>
+    <string name="newgame">新しいゲーム</string>
+    <string name="howtoplay">遊び方</string>
+
+    <!--    Level Complete Dialog-->
+    <string name="levell">レベル ：</string>
+    <string name="time_bounce">タイムボーナス ：</string>
+    <string name="currentmoney">現在のお金 ：</string>
+    <string name="nextlevel">次のレベル</string>
+    <string name="victory">勝利</string>
+    <string name="scoree">スコア :</string>
+    <string name="bestscore">最高のスコア : </string>
+    <string name="totalscore" >合計点 : </string>
+
+    <!--    Game Over Dialog-->
+    <string name="gameover">ゲームオーバー</string>
+    <string name="continuee">継続する</string>
+
+    <!--    Exit Dialog-->
+    <string name="quit_game">ゲームを終了しますか ?</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+
+    <!--    Ad Dialog-->
+    <string name="timeout">タイムアウト!</string>
+    <string name="watch_short_video">短いビデオを見て、110\n秒を増やしてください ? </string>
+
+    <!--    Ad purchase successfully -->
+    <string name="purchase_successfully">お支払いおめでとうございます。 次のアイテムを受け取りました。</string>
+    <string name="purchase_ok">わかった</string>
+    <string name="purchase_ads_successfully">お支払いおめでとうございます。 広告は削除されました。</string>
+
+    <!--    before_watch_video successfully -->
+    <string name="before_watch_video">詳細については、短い動画広告をご覧ください</string>
+
+    <!--    Video Play successfully -->
+    <string name="videoads_successfully">成功したリワード広告の読み込みおめでとうございます。あなたは以下のアイテムを受け取りました:</string>
+
+    <!--    Video Play 110 Seconds successfully -->
+    <string name="videoads110_successfully">成功したリワード広告の読み込みおめでとうございます。あなたは110秒以上を受け取りました</string>
+
+    <!--    Use Heart Dialog-->
+    <string name="second_chance">二度目のチャンス</string>
+    <string name="second_chance_des">次のアイテムを使用して、\n再生を続行できます :</string>
+    <string name="nothanks">結構です</string>
+
+    <!--    single card dialog-->
+    <string name="buy_now">今すぐ購入</string>
+
+    <!--    User Heart Dialog-->
+    <string name="user_heart_des">動物の種類の1つを削除するためにビデオを見る!</string>
+
+    <!--    User Privacy Policy Dialog-->
+    <string name="data_policy">データポリシー</string>
+    <string name="accept_privacy_and_policy">プライバシーを受け入れる＆amp;ポリシー</string>
+    <string name="accept">承認</string>
+    <string name="learnmore">もっと詳しく知る</string>
+    <string name="point_1">このアプリはAdmobからの広告を表示します。彼らはあなたに最適な広告を表示するために場所や広告IDなどのデータを収集します。このアプリをプレイすることにより、このデータポリシーに同意したことになります!</string>
+
+    <!--    Purchase All Pack Dialog-->
+    <string name="suffle">スフレ</string>
+    <string name="hint">ヒント</string>
+    <string name="oneKind">一種</string>
+    <string name="no_ads">広告なし</string>
+
+    <string name="no_internet">インターネットがない</string>
+
+    <string name="rateusbtn">私たちを評価してください</string>
+    <string name="backtogamebtn">ゲームに戻る</string>
+
+    <string name="rate_app_text">RATE US</string>
+    <string name="rate_app_text2">このゲームが気に入ったら、ストアで評価してください。</string>
+
+    <string name="around_the_world_home">世界中で</string>
+
+    <string name="india">インド</string>
+    <string name="indonesia">インドネシア</string>
+    <string name="japan">日本</string>
+    <string name="korea">韓国</string>
+    <string name="russia">ロシア</string>
+    <string name="thailand">タイ</string>
+    <string name="vietNam">ベルギー</string>
+    <string name="belgium">ベルギー</string>
+    <string name="france">フランス</string>
+    <string name="germany">ドイツ</string>
+    <string name="greece">ギリシャ</string>
+    <string name="ireland">アイルランド</string>
+    <string name="italy">イタリア</string>
+    <string name="portugal">ポルトガル</string>
+    <string name="spain">スペイン</string>
+    <string name="netherlands">オランダ</string>
+    <string name="uk">イギリス</string>
+    <string name="argentina">アルゼンチン</string>
+    <string name="brazil">ブラジル</string>
+    <string name="canada">カナダ</string>
+    <string name="colombia">コロンビア</string>
+    <string name="mexico">メキシコ</string>
+    <string name="peru">ペルー</string>
+    <string name="usa">米国</string>
+    <string name="moroco">モロッコ</string>
+    <string name="south_africa">南アフリカ</string>
+
+    <string name="will_unlock_when_country_has_15_starts">%1$s の星が 15 個になるとロックが解除されます</string>
+
+
+
+
+</resources>

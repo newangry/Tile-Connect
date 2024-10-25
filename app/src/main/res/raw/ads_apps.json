@@ -1,0 +1,14 @@
+[
+  {
+    "app_icon": "appicon1",
+    "app_name": "Tile Connect Star: Puzzle Fun",
+    "app_description": "High quality and professional: in this exciting brand new game, your goal is to remove all the images from the board by connecting pairs of identical images.",
+    "package_name": "com.funkyland.animalconnect"
+  },
+  {
+    "app_icon": "appicon2",
+    "app_name": "Tile Connect: Brain Game Fruit",
+    "app_description": "Your role in this game is to match all the pairs of cards to advance to the next level. The game ends when you run out of time.",
+    "package_name": "com.ghuyonline.fruitconnect"
+  }
+]

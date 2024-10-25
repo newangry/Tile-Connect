@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tile Connect Travel - Mega Fun</string>
+
+
+    <!--    Splash Activity-->
+    <string name="loading">Chargement...</string>
+    <string name="splash_des">Passez 15 niveaux pour débloquer le pays suivant.</string>
+
+    <string name="high_score">score élevé</string>
+    <string name="relaxed">Détendue</string>
+    <string name="hard">dure</string>
+    <string name="easy">facile</string>
+
+
+    <string name="asia">Asie</string>
+    <string name="europe">Europe</string>
+    <string name="america">Amérique</string>
+    <string name="australia">Australie</string>
+    <string name="africa">Afrique</string>
+
+
+
+    <!--    Ad purchase successfully -->
+    <string name="purchase_successfully" translatable="false">Félicitations pour votre paiement réussi. Vous avez reçu les éléments suivants:</string>
+    <string name="purchase_ok" translatable="false">de</string>
+    <string name="purchase_ads_successfully" translatable="false">Félicitations pour votre paiement réussi.</string>
+
+
+    <!--    Start Activity-->
+    <string name="around_the_world">Pâle</string>
+    <string name="best_score">meilleur score :</string>
+    <string name="play">jouer</string>
+
+
+    <!--    Main Activity-->
+    <string name="level">niveau</string>
+    <string name="score">score</string>
+
+
+
+
+    <!--    Pause Dialog-->
+    <string name="pausing">pause</string>
+    <string name="resume">recommencer</string>
+    <string name="newgame">Nouveaux jeux</string>
+    <string name="howtoplay">Comment jouer</string>
+
+
+    <!--    Level Complete Dialog-->
+    <string name="levell">niveau :</string>
+    <string name="time_bounce">Bonus de temps : </string>
+    <string name="currentmoney">argent courant : </string>
+    <string name="nextlevel">niveau suivant</string>
+    <string name="victory">la victoire</string>
+
+
+    <!--    Game Over Dialog-->
+    <string name="gameover">Jeu terminé</string>
+    <string name="continuee">continuer</string>
+
+    <string name="rateusbtn">taux</string>
+    <string name="backtogamebtn">Retour au jeu</string>
+
+    <!--    before_watch_video successfully -->
+    <string name="before_watch_video" translatable="false">Regardez de courtes publicités vidéo pour gagner plus.</string>
+
+    <string name="rate_app_text">RATE US</string>
+    <string name="rate_app_text2">Si tu aimes ce jeu Veuillez nous évaluer dans le magasin.</string>
+
+    <string name="around_the_world_home">Autour du monde</string>
+
+    <string name="india">Inde</string>
+    <string name="indonesia">Indonésie</string>
+    <string name="japan">Japon</string>
+    <string name="korea">Corée</string>
+    <string name="russia">Russie</string>
+    <string name="thailand">Thaïlande</string>
+    <string name="vietNam">Belgique</string>
+    <string name="belgium">Belgium</string>
+    <string name="france">France</string>
+    <string name="germany">Allemagne</string>
+    <string name="greece">Grèce</string>
+    <string name="ireland">Irlande</string>
+    <string name="italy">Italie</string>
+    <string name="portugal">Portugal</string>
+    <string name="spain">Espagne</string>
+    <string name="netherlands">Pays-Bas</string>
+    <string name="uk">Royaume-Uni</string>
+    <string name="argentina">Argentine</string>
+    <string name="brazil">Brésil</string>
+    <string name="canada">Canada</string>
+    <string name="colombia">Colombie</string>
+    <string name="mexico">Mexique</string>
+    <string name="peru">Pérou</string>
+    <string name="usa">États-Unis</string>
+    <string name="moroco">Maroc</string>
+    <string name="south_africa">Afrique du Sud</string>
+
+    <string name="will_unlock_when_country_has_15_starts">Se débloque lorsque %1$s a 15 étoiles</string>
+</resources>

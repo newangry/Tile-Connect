@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+    <RelativeLayout
+        android:id="@+id/ll_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/ll"
+            android:layout_width="220dp"
+            android:layout_height="260dp"
+            android:layout_centerInParent="true">
+
+
+            <ImageView
+                android:layout_width="220dp"
+                android:layout_height="270dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/purchase_single_card" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_above="@+id/ll_btn_buy"
+                android:layout_marginBottom="10dp"
+                android:alpha="0.5"
+                android:background="@color/black" />
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_above="@+id/ll_btn_buy"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="offer ends in 19:00:00 "
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+
+            <RelativeLayout
+                android:id="@+id/ll_btn_buy"
+                android:layout_width="220dp"
+                android:layout_height="35dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="10dp">
+
+                <TextView
+                    android:id="@+id/btn_buy"
+                    style="@style/buttontext"
+                    android:layout_width="80dp"
+                    android:layout_height="35dp"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:text="@string/buy_now"
+                    android:textColor="@color/white" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+
+        <ImageView
+            android:id="@+id/btn_close"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/ll"
+            android:layout_marginStart="-15dp"
+            android:layout_marginBottom="-50dp"
+            android:layout_toEndOf="@+id/ll"
+            android:src="@drawable/ic_close" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="@font/arial_rounded"
+            android:gravity="center"
+            android:text="@string/splash_des"
+            android:textColor="@color/white"
+            android:textSize="15dp"
+            android:visibility="invisible" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

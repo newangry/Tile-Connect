@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Nối Văn - Du Lịch Thế Giới</string>
+
+
+    <!--    Splash Activity-->
+    <string name="loading">Đang tải...</string>
+    <string name="splash_des">Vượt qua 15 cấp độ để mở khóa quốc gia tiếp theo</string>
+
+    <!--    Ad purchase successfully -->
+    <string name="purchase_successfully" translatable="false">Xin chúc mừng bạn đã thanh toán thành công. Bạn đã nhận được các mặt hàng sau:</string>
+    <string name="purchase_ok" translatable="false">CỦA</string>
+    <string name="purchase_ads_successfully" translatable="false">Xin chúc mừng bạn đã thanh toán thành công. Các quảng cáo đã bị loại bỏ.</string>
+
+    <!--    Start Activity-->
+    <string name="around_the_world">CHƠI TIẾP</string>
+    <string name="best_score">ĐIỂM CAO NHẤT :</string>
+    <string name="play">CHƠI</string>
+    <string name="high_score">Điểm cao</string>
+
+    <string name="relaxed">Thư giãn</string>
+    <string name="hard">Cứng</string>
+    <string name="easy">Dễ</string>
+
+
+    <!--    Main Activity-->
+    <string name="level">CẤP ĐỘ</string>
+    <string name="score">GHI BÀN</string>
+
+    <string name="asia">Châu Á</string>
+    <string name="europe">Châu Âu</string>
+    <string name="america">Châu Mỹ</string>
+    <string name="australia">Châu Úc</string>
+    <string name="africa">Châu phi</string>
+
+    <!--    Pause Dialog-->
+    <string name="pausing">TẠM DỪNG</string>
+    <string name="resume">BẢN TÓM TẮT</string>
+    <string name="newgame">TRÒ CHƠI MỚI</string>
+    <string name="howtoplay">CÁCH CHƠI</string>
+
+
+    <string name="hard_score">điểm cứng</string>
+    <string name="easy_score">điểm dễ dàng</string>
+    <string name="relax_score">điểm thư giãn</string>
+
+
+    <!--    Level Complete Dialog-->
+    <string name="levell">CẤP ĐỘ :</string>
+    <string name="time_bounce">THƯỞNG THÊM THƠI GIAN : </string>
+    <string name="currentmoney">TIỀN HIỆN TẠI:</string>
+    <string name="nextlevel">NEXT LEVEL</string>
+    <string name="victory">CHIẾN THẮNG</string>
+
+
+    <!--    Game Over Dialog-->
+    <string name="gameover">TRÒ CHƠI HẾT</string>
+    <string name="continuee">TIẾP TỤC</string>
+
+    <string name="rateusbtn">Đánh giá chúng tôi</string>
+    <string name="backtogamebtn">Quay lại trò chơi</string>
+
+    <!--    before_watch_video successfully -->
+    <string name="before_watch_video" translatable="false">Xem quảng cáo video ngắn để nhận được nhiều hơn</string>
+
+
+    <string name="rate_app_text">RATE US</string>
+    <string name="rate_app_text2">Nếu bạn thích trò chơi này hãy đánh giá 5 sao và chia sẻ với bạn bè. Vui hơn khi chơi cùng nhau ^^</string>
+    <string name="around_the_world_home">Vòng quanh thế giới</string>
+
+
+
+    <string name="india">Ấn Độ</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="japan">Nhật Bản</string>
+    <string name="korea">Hàn Quốc</string>
+    <string name="russia">Nga</string>
+    <string name="thailand">nước Thái Lan</string>
+    <string name="vietNam">Việt Nam</string>
+    <string name="belgium">nước Bỉ</string>
+    <string name="france">Pháp</string>
+    <string name="germany">nước Đức</string>
+    <string name="greece">Hy Lạp</string>
+    <string name="ireland">Ireland</string>
+    <string name="italy">Nước Ý</string>
+    <string name="portugal">Bồ Đào Nha</string>
+    <string name="spain">Tây ban nha</string>
+    <string name="netherlands">nước Hà Lan</string>
+    <string name="uk">Vương quốc Anh</string>
+    <string name="argentina">Argentina</string>
+    <string name="brazil">Brazil</string>
+    <string name="canada">Canada</string>
+    <string name="colombia">Colombia</string>
+    <string name="mexico">México</string>
+    <string name="peru">Peru</string>
+    <string name="usa">Hoa Kỳ</string>
+    <string name="moroco">Ma-rốc</string>
+    <string name="south_africa">Nam Phi</string>
+
+    <string name="will_unlock_when_country_has_15_starts">Sẽ mở khóa khi %1$s có 15 sao</string>
+</resources>

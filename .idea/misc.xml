@@ -1,0 +1,130 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/drawable-v24/btn_custom.xml" value="0.1415" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/activity_ads.xml" value="0.21148163782186577" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/activity_more_app.xml" value="0.25" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/activity_sparkela.xml" value="0.14" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/activity_splash.xml" value="0.14" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/activity_start.xml" value="0.16" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/activity_world.xml" value="0.12" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/dialog_before_video.xml" value="0.21148163782186577" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/dialog_game_over.xml" value="0.13" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/dialog_high_score.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/dialog_level_complete.xml" value="0.21" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/dialog_pause.xml" value="0.21419410004275333" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/dialog_purchase.xml" value="0.25" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/dialog_purchase_successful.xml" value="0.21419410004275333" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/dialog_single_pack_purchase.xml" value="0.33" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/dialog_theme.xml" value="0.21419410004275333" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/dialog_update_app.xml" value="0.21148163782186577" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/dialog_videoplay_successful.xml" value="0.21419410004275333" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/raw_country.xml" value="1.0" />
+        <entry key="..\:/Android/Project/Client/Tile Connect Legend/Tile Connect Legend/app/src/main/res/layout/raw_sparkela.xml" value="0.9" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/drawable/checked_24.xml" value="0.1465" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/drawable/customcheckbox.xml" value="0.1465" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/drawable/unchecked_24.xml" value="0.1465" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/activity_splash.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/activity_start.xml" value="0.22" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/ads_item.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_adsplay_successful.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_before_video.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_exit.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_game_level_type.xml" value="0.14" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_game_over.xml" value="0.14" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_heart_purchase.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_high_score.xml" value="0.25" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_language.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_level_complete.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_loader.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_pause.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_policy.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_purchase.xml" value="0.25" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_purchase_successful.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_rating.xml" value="0.11354166666666667" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_show_ad.xml" value="0.11354166666666667" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_show_ad_use_rocket.xml" value="0.2609375" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_single_pack_purchase.xml" value="0.22" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_theme.xml" value="0.11354166666666667" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_use_heart.xml" value="0.11354166666666667" />
+        <entry key="..\:/Android/Project/Client/TileConnectStarFreelancer/TileConnectStarFreelancer/app/src/main/res/layout/dialog_videoplay_successful.xml" value="0.2609375" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/drawable/bg_level_complete_gradiant.xml" value="0.25833333333333336" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/drawable/bg_luanguage.xml" value="0.25833333333333336" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/drawable/btn_accept.xml" value="0.25833333333333336" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/drawable/btn_gray.xml" value="0.25833333333333336" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/drawable/btn_white.xml" value="0.25833333333333336" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/drawable/mover_dp.xml" value="0.1685" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/drawable/progressbar_handler.xml" value="0.25833333333333336" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/activity_more_app.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/activity_splash.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/activity_start.xml" value="0.264" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/ads_item.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_adsplay_successful.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_before_video.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_exit.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_game_over.xml" value="0.2" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_heart_purchase.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_language.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_level_complete.xml" value="0.264" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_loader.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_pause.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_policy.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_purchase.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_purchase_successful.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_show_ad.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_show_ad_use_rocket.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_single_pack_purchase.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_theme.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_use_heart.xml" value="0.2421875" />
+        <entry key="..\:/Client Product New(Rising Star)/2022/FREELANCER Client/Game Pet Animal 24-01-2022/Game Pet Animal/app/src/main/res/layout/dialog_videoplay_successful.xml" value="0.2421875" />
+        <entry key="..\:/Funky Land/Projects/OnetAnimalClassic/OnetAnimalClassic/app/src/main/res/layout/activity_start.xml" value="0.22083333333333333" />
+        <entry key="..\:/Funky Land/Projects/OnetAnimalClassic/OnetAnimalClassic/app/src/main/res/layout/dialog_game_over.xml" value="0.19270833333333334" />
+        <entry key="..\:/Funky Land/Projects/OnetAnimalClassic/OnetAnimalClassic/app/src/main/res/layout/dialog_pause.xml" value="0.19270833333333334" />
+        <entry key="..\:/Funky Land/Projects/OnetAnimalClassic/OnetAnimalClassic/app/src/main/res/layout/dialog_purchase.xml" value="0.1331521739130435" />
+        <entry key="..\:/Funky Land/Projects/OnetAnimalClassic/OnetAnimalClassic/app/src/main/res/layout/dialog_purchase_successful.xml" value="0.19270833333333334" />
+        <entry key="..\:/Funky Land/Projects/OnetAnimalClassic/OnetAnimalClassic/app/src/main/res/layout/dialog_rating.xml" value="0.22083333333333333" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/bg_level_complete_gradiant.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/bg_luanguage.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/bg_pause_dialog.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/btn_accept.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/btn_gray.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/mover_dp.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/progress.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/progress_bar_back_dp.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/progress_bar_line_dp.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/progressbar_handler.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/red_round.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/drawable/thumb.xml" value="0.20833333333333334" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/activity_splash.xml" value="0.17" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/activity_start.xml" value="0.1921875" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_exit.xml" value="0.2" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_game_over.xml" value="0.16" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_heart_purchase.xml" value="0.22" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_language.xml" value="0.16" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_level_complete.xml" value="0.2" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_loader.xml" value="0.1921875" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_pause.xml" value="0.16" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_policy.xml" value="0.2" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_purchase.xml" value="0.22" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_show_ad.xml" value="0.15" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_show_ad_use_rocket.xml" value="0.1921875" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_show_ad_use_suffle.xml" value="0.15" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_single_pack_purchase.xml" value="0.5" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_theme.xml" value="0.2" />
+        <entry key="..\:/Kishan/Demos/JAVA/Game Pet Animal/app/src/main/res/layout/dialog_use_heart.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

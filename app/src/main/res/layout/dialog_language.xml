@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btn_close"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_luanguage"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/img_usa"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:onClick="OnClickLanguage"
+                android:src="@drawable/flag_united_states" />
+
+
+            <ImageView
+                android:id="@+id/img_uk"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:onClick="OnClickLanguage"
+                android:src="@drawable/flag_uk" />
+
+            <ImageView
+                android:id="@+id/img_germany"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:onClick="OnClickLanguage"
+                android:src="@drawable/flag_germany" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <ImageView
+                android:id="@+id/img_french"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:onClick="OnClickLanguage"
+                android:src="@drawable/flag_french" />
+            <ImageView
+                android:id="@+id/img_japan"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:onClick="OnClickLanguage"
+                android:src="@drawable/flag_japan" />
+
+            <ImageView
+                android:id="@+id/img_south_korea"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:onClick="OnClickLanguage"
+                android:src="@drawable/flag_south_korea" />
+
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+
+            <ImageView
+                android:id="@+id/img_australia"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:onClick="OnClickLanguage"
+                android:src="@drawable/flag_australia" />
+
+
+            <ImageView
+                android:id="@+id/img_flag_india"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:onClick="OnClickLanguage"
+                android:src="@drawable/flag_india" />
+            <ImageView
+                android:id="@+id/img_vietnam"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:onClick="OnClickLanguage"
+                android:src="@drawable/flag_vietnam" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

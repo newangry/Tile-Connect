@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:id="@+id/ll"
+        android:layout_width="500dp"
+        android:layout_height="290dp"
+        android:layout_centerInParent="true">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/bg_purchase_dialog" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/arial_rounded"
+            android:gravity="center_horizontal"
+            android:padding="20dp"
+            android:text="@string/shop"
+            android:textColor="@color/yellow"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp">
+
+
+            <RelativeLayout
+                android:id="@+id/ll_pack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="8dp">
+
+
+                <RelativeLayout
+                    android:id="@+id/card_0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/purchase_single_card" />
+
+
+                    <LinearLayout
+                        android:layout_width="130dp"
+                        android:layout_height="40dp"
+                        android:alpha="0.5"
+                        android:layout_above="@+id/txt_pack_0_price"
+                        android:layout_marginBottom="5dp"
+                        android:background="@color/black" />
+
+                    <TextView
+                        android:id="@+id/time"
+                        android:layout_width="130dp"
+                        android:layout_height="40dp"
+                        android:gravity="center"
+                        android:text="offer ends in 19:00:00 "
+                        android:textColor="@color/white"
+                        android:textSize="14dp"
+                        android:layout_above="@+id/txt_pack_0_price"
+                        android:layout_marginBottom="5dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txt_pack_0_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:id="@+id/card_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_0">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/starterpack" />
+
+                    <TextView
+                        android:id="@+id/txt_pack_1_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/card_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_1">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/midiumpack" />
+
+                    <TextView
+                        android:id="@+id/txt_pack_2_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/card_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_2">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/advancedpack" />
+
+
+                    <TextView
+                        android:id="@+id/txt_pack_3_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/card_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_3">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/noads" />
+
+
+                    <TextView
+                        android:id="@+id/txt_pack_4_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:id="@+id/card_5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_4">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:src="@drawable/pack1" />
+
+                    <TextView
+                        android:id="@+id/txt_pack_5_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/card_6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_5">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:src="@drawable/pack2" />
+
+                    <TextView
+                        android:id="@+id/txt_pack_6_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/card_7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_6">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:src="@drawable/pack3" />
+
+                    <TextView
+                        android:id="@+id/txt_pack_7_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:id="@+id/card_8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_7">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:src="@drawable/pack4" />
+
+
+                    <TextView
+                        android:id="@+id/txt_pack_8_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:id="@+id/card_9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_8">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:src="@drawable/pack5" />
+
+
+                    <TextView
+                        android:id="@+id/txt_pack_9_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/card_10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_9">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:src="@drawable/pack6" />
+
+                    <TextView
+                        android:id="@+id/txt_pack_10_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:id="@+id/card_11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_10">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:src="@drawable/pack7" />
+
+
+                    <TextView
+                        android:id="@+id/txt_pack_11_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/card_12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_11">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:src="@drawable/pack8" />
+
+                    <TextView
+                        android:id="@+id/txt_pack_12_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:id="@+id/card_13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="170dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="8dp"
+                    android:layout_toRightOf="@+id/card_12">
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="155dp"
+                        android:src="@drawable/pack9" />
+
+                    <TextView
+                        android:id="@+id/txt_pack_13_price"
+                        android:layout_width="90dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/plain_button"
+                        android:fontFamily="@font/arial_rounded"
+                        android:gravity="center"
+                        android:singleLine="true"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+
+                </RelativeLayout>
+
+
+            </RelativeLayout>
+
+        </HorizontalScrollView>
+
+
+    </RelativeLayout>
+
+
+    <ImageView
+        android:id="@+id/btn_close"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_above="@+id/ll"
+        android:layout_marginLeft="-20dp"
+        android:layout_marginBottom="-70dp"
+        android:layout_toRightOf="@+id/ll"
+        android:src="@drawable/ic_close" />
+
+
+</RelativeLayout>

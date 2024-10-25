@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tile Connect Travel - Mega Fun</string>
+
+
+    <!--    Splash Activity-->
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="splash_des">अगले देश को अनलॉक करने के लिए 15 स्तर पार करें</string>
+    <string name="around_the_world">खेल</string>
+    <string name="high_score">उच्च स्कोर</string>
+    <string name="relaxed">ढील</string>
+    <string name="hard">मुश्किल</string>
+    <string name="easy">आसान</string>
+
+    <string name="asia">एशिया</string>
+    <string name="europe">यूरोप</string>
+    <string name="america">अमेरिका</string>
+    <string name="australia">ऑस्ट्रेलिया</string>
+    <string name="africa">अफ़्रीका</string>
+
+
+    <!--    Ad purchase successfully -->
+    <string name="purchase_successfully" translatable="false">सफल भुगतान पर बधाई. आपको निम्नलिखित आइटम प्राप्त होते हैं：</string>
+    <string name="purchase_ok" translatable="false">का</string>
+    <string name="purchase_ads_successfully" translatable="false">सफल भुगतान पर बधाई. विज्ञापन हटा दिया गया है。</string>
+
+
+    <!--    Start Activity-->
+    <string name="best_score">सर्वोत्तम परिणाम ：</string>
+    <string name="play">खेल</string>
+
+
+    <!--    Main Activity-->
+    <string name="level">श्रेणी</string>
+    <string name="score">अंश</string>
+
+
+    <!--    Pause Dialog-->
+    <string name="pausing">विराम</string>
+    <string name="resume">वापस पाना</string>
+    <string name="newgame">नया खेल</string>
+    <string name="howtoplay">कैसे खेलने के लिए</string>
+
+
+    <!--    Level Complete Dialog-->
+    <string name="levell">श्रेणी ：</string>
+    <string name="time_bounce">समय का इनाम ：</string>
+    <string name="currentmoney">चालू निधि : </string>
+    <string name="nextlevel">अगला स्तर</string>
+    <string name="victory">विजय</string>
+
+
+    <!--    Game Over Dialog-->
+    <string name="gameover">खेल खत्म</string>
+    <string name="continuee">जारी रखना</string>
+
+
+    <string name="rateusbtn">हमें रेटिंग दें</string>
+    <string name="backtogamebtn">खेल पर लौटें</string>
+
+    <!--    before_watch_video successfully -->
+    <string name="before_watch_video" translatable="false">अधिक जानकारी के लिए लघु वीडियो विज्ञापन देखें</string>
+
+    <string name="rate_app_text">RATE US</string>
+    <string name="rate_app_text2">यदि आपको यह गेम पसंद है तो कृपया हमें स्टोर पर रेट करें。</string>
+
+    <string name="around_the_world_home">Vòng quanh thế giới</string>
+
+</resources>

@@ -1,0 +1,14 @@
+[
+  {
+    "app_icon": "appicon1",
+    "app_name": "Tile Connect Legend: Match Fun",
+    "app_description": "If you’re looking for a new puzzler to keep your mind working and your fingers splashing, then Tile Connect Legend: Match Fun is the fresh, beautiful game you’ve been waiting for!",
+    "package_name": "com.funkyland.tileconnecttravel"
+  },
+  {
+    "app_icon": "appicon2",
+    "app_name": "Tile Connect: Brain Game Fruit",
+    "app_description": "In this exciting new game, your goal is to remove all the images from the board by connecting pairs of identical images.",
+    "package_name": "com.ghuyonline.fruitconnect"
+  }
+]

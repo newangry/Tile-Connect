@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Around the World</string>
+
+    <string name="policy_link" translatable="false">http://ghuyonline.webstarterz.com/Tileconnectstarpolicy.html</string>
+    <string name="ad" translatable="false">AD</string>
+
+    <!--    Splash Activity-->
+    <string name="loading">Belastung...</string>v
+    <string name="splash_des">Bestehen Sie 15 Level, um das nächste Land freizuschalten</string>
+
+    <!--    Start Activity-->
+    <string name="around_the_world">Spielen</string>
+    <string name="best_score">BESTE ERGEBNISSE :</string>
+    <string name="play">SPIELEN</string>
+    <string name="theme">Er</string>
+    <string name="shop">GESCHÄFT</string>
+    <string name="removeAd">Anzeigen entfernen</string>
+    <string name="relaxed">entspannt</string>
+    <string name="hard">Hart</string>
+    <string name="easy">Einfach</string>
+    <string name="high_score">Highscore</string>
+    <string name="hard_score">Hartes Ergebnis</string>
+    <string name="easy_score">Einfaches Ergebnis</string>
+    <string name="relax_score">Entspannen Sie sich</string>
+
+    <!--    Main Activity-->
+    <string name="level">EBENE</string>
+    <string name="score">PUNKTZAHL</string>
+
+    <string name="asia">Asien</string>
+    <string name="europe">Europa</string>
+    <string name="america">Amerika</string>
+    <string name="australia">Australien</string>
+    <string name="africa">Afrika</string>
+
+    <!--    Pause Dialog-->
+    <string name="pausing">PAUSE</string>
+    <string name="resume">FORTFAHREN</string>
+    <string name="newgame">NEUES SPIEL</string>
+    <string name="howtoplay">SPIELANLEITUNG</string>
+
+
+    <!--    Level Complete Dialog-->
+    <string name="levell">EBENE : </string>
+    <string name="time_bounce">BONUSZEIT : </string>
+    <string name="currentmoney">AKTUELLES GELD : </string>
+    <string name="nextlevel">NÄCHSTE EBENE</string>
+    <string name="victory">SIEG</string>
+    <string name="scoree" >PUNKTZAHL :</string>
+    <string name="bestscore">BESTE ERGEBNISSE : </string>
+    <string name="totalscore">GESAMTPUNKTZAHL : </string>
+
+    <!--    Game Over Dialog-->
+    <string name="gameover">DAS ENDE</string>
+    <string name="continuee">WEITERMACHEN</string>
+
+    <!--    Exit Dialog-->
+    <string name="quit_game">WOLLEN SIE DAS SPIEL STOPPEN? ?</string>
+    <string name="yes">JA</string>
+    <string name="no">NEIN</string>
+
+    <!--    Ad Dialog-->
+    <string name="timeout">Die Zeit ist abgelaufen!</string>
+    <string name="watch_short_video">Sehen Sie sich ein kurzes Video an, um weitere 110\n Sekunden zu bekommen? </string>
+
+    <!--    Ad purchase successfully -->
+    <string name="purchase_successfully">Herzlichen Glückwunsch zu Ihrer erfolgreichen Zahlung. Sie erhalten folgende Artikel:</string>
+    <string name="purchase_ok">Okay</string>
+    <string name="purchase_ads_successfully">Herzlichen Glückwunsch zu Ihrer erfolgreichen Zahlung. Anzeigen wurden entfernt.</string>
+
+    <!--    before_watch_video successfully -->
+    <string name="before_watch_video">Sehen Sie sich kurze Videoanzeigen an, um mehr zu erfahren</string>
+
+    <!--    Video Play successfully -->
+    <string name="videoads_successfully">Herzlichen Glückwunsch zum Laden einer erfolgreichen Reward-Anzeige. Sie erhalten folgende Artikel:</string>
+
+    <!--    Video Play 110 Seconds successfully -->
+    <string name="videoads110_successfully">Herzlichen Glückwunsch zum Laden einer erfolgreichen Reward-Anzeige. Sie erhalten weitere 110 Sekunden</string>
+
+    <!--    Use Heart Dialog-->
+    <string name="second_chance">ZWEITE CHANCE</string>
+    <string name="second_chance_des">Sie können die folgenden Elemente verwenden, um mit dem Spielen fortzufahren:</string>
+    <string name="nothanks">NEIN DANKE</string>
+
+    <!--    single card dialog-->
+    <string name="buy_now">Kaufe jetzt</string>
+
+    <!--    User Heart Dialog-->
+    <string name="user_heart_des">Sehen Sie sich das Video an, um eine Tierart zu eliminieren!</string>
+
+    <!--    User Privacy Policy Dialog-->
+    <string name="data_policy">Datenrichtlinie</string>
+    <string name="accept_privacy_and_policy">Akzeptieren Sie Datenschutz &amp; Regel</string>
+    <string name="accept">Akzeptieren</string>
+    <string name="learnmore">Erfahren Sie mehr</string>
+    <string name="point_1">Diese Anwendung zeigt Anzeigen von Admob an. Sie sammeln Daten wie Standort und Werbe-ID, um Ihnen die besten Anzeigen zu zeigen. Durch das Spielen dieser App stimmen Sie dieser Datenrichtlinie zu!</string>
+
+    <!--    Purchase All Pack Dialog-->
+    <string name="suffle">Aufsehen</string>
+    <string name="hint">Anweisung</string>
+    <string name="oneKind">eine Art</string>
+    <string name="no_ads">Keine Werbung</string>
+
+    <string name="no_internet">Kein Internet</string>
+
+    <string name="rateusbtn">US-Wert</string>
+    <string name="backtogamebtn">Zurück zum Spiel</string>
+
+    <string name="rate_app_text">BEWERTEN SIE UNS</string>
+    <string name="rate_app_text2">Wenn Ihnen dieses Spiel gefällt, bewerten Sie uns im Store.</string>
+
+    <string name="around_the_world_home">Auf der ganzen Welt</string>
+
+
+    <string name="india">Indien</string>
+    <string name="indonesia">Indonesien</string>
+    <string name="japan">Japan</string>
+    <string name="korea">Korea</string>
+    <string name="russia">Russland</string>
+    <string name="thailand">Thailand</string>
+    <string name="vietNam">VietNam</string>
+    <string name="belgium">Belgien</string>
+    <string name="france">Frankreich</string>
+    <string name="germany">Deutschland</string>
+    <string name="greece">Griechenland</string>
+    <string name="ireland">Irland</string>
+    <string name="italy">Italien</string>
+    <string name="portugal">Portugal</string>
+    <string name="spain">Spanien</string>
+    <string name="netherlands">Niederlande</string>
+    <string name="uk">Vereinigtes Königreich</string>
+    <string name="argentina">Argentinien</string>
+    <string name="brazil">Brasilien</string>
+    <string name="canada">Kanada</string>
+    <string name="colombia">Kolumbien</string>
+    <string name="mexico">Mexiko</string>
+    <string name="peru">Peru</string>
+    <string name="usa">USA</string>
+    <string name="moroco">Marokko</string>
+    <string name="south_africa">Südafrika</string>
+
+
+    <string name="will_unlock_when_country_has_15_starts">Wird freigeschaltet, wenn %1$s 15 Sterne hat</string>
+
+
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+  <RelativeLayout
+      android:id="@+id/ll_1"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:id="@+id/ll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/bg_luanguage"
+        android:padding="15dp">
+
+      <TextView
+          android:id="@+id/title"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_centerHorizontal="true"
+          android:fontFamily="@font/arial_rounded"
+          android:text="@string/second_chance"
+          android:textColor="@color/white"
+          android:textSize="25dp"
+          android:textStyle="bold" />
+
+
+      <TextView
+          android:id="@+id/txt_des"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/title"
+          android:layout_centerHorizontal="true"
+          android:layout_marginTop="10dp"
+          android:fontFamily="@font/arial_rounded"
+          android:gravity="center"
+          android:text="@string/second_chance_des"
+          android:textColor="@color/white"
+          android:textSize="20dp"
+          android:textStyle="bold" />
+
+
+      <ImageView
+          android:id="@+id/img_card"
+          android:layout_width="100dp"
+          android:layout_height="130dp"
+          android:layout_below="@+id/txt_des"
+          android:layout_centerHorizontal="true"
+          android:layout_marginTop="5dp"
+          android:src="@drawable/purchase_card_two" />
+
+
+      <TextView
+          android:id="@+id/btn_nothanks"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/img_card"
+          android:layout_centerHorizontal="true"
+          android:layout_marginTop="10dp"
+          android:fontFamily="@font/arial_rounded"
+          android:text="@string/nothanks"
+          android:textColor="@color/white"
+          android:textSize="25dp"
+          android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/btn_close"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_above="@+id/ll"
+        android:layout_marginLeft="-15dp"
+        android:layout_marginBottom="-15dp"
+        android:layout_toEndOf="@+id/ll"
+        android:src="@drawable/ic_close" />
+
+  </RelativeLayout>
+
+</RelativeLayout>

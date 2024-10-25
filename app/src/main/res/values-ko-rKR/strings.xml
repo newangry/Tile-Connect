@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tile Connect Travel - Mega Fun</string>
+
+
+    <!--    Splash Activity-->
+    <string name="loading">로드 중...</string>
+    <string name="splash_des">다음 국가의 잠금을 해제하려면 15개 레벨을 통과하세요.</string>
+    <string name="high_score">높은 점수</string>
+    <string name="hard_score">어려움 점수</string>
+    <string name="easy_score">쉬움 점수</string>
+    <string name="relax_score">편안한 점수</string>
+
+
+    <!--    Ad purchase successfully -->
+    <string name="purchase_successfully" translatable="false">성공적인 결제를 축하합니다. 다음 항목을 받았습니다.</string>
+    <string name="purchase_ok" translatable="false">의</string>
+    <string name="purchase_ads_successfully" translatable="false">성공적인 결제를 축하합니다. 광고가 제거되었습니다.</string>
+
+
+    <!--    Start Activity-->
+    <string name="around_the_world">플레이</string>
+    <string name="best_score">최고 점수 :</string>
+
+    <string name="play">플레이</string>
+    <string name="relaxed">편안한</string>
+    <string name="hard">어려운</string>
+    <string name="easy">쉬운</string>
+
+    <string name="asia">아시아</string>
+    <string name="europe">유럽</string>
+    <string name="america">아메리카</string>
+    <string name="australia">오스트랄리아</string>
+    <string name="africa">아프리카</string>
+
+
+    <!--    Main Activity-->
+    <string name="level">수준</string>
+    <string name="score">점수</string>
+
+
+    <!--    Pause Dialog-->
+    <string name="pausing">일시중지</string>
+    <string name="resume">재개하다</string>
+    <string name="newgame">새로운 게임</string>
+    <string name="howtoplay">게임 방법</string>
+
+
+    <!--    Level Complete Dialog-->
+    <string name="levell">수준 :</string>
+    <string name="time_bounce">시간 보너스 : </string>
+    <string name="currentmoney">현재 돈 : </string>
+    <string name="nextlevel">다음 레벨</string>
+    <string name="victory">승리</string>
+
+
+    <!--    Game Over Dialog-->
+    <string name="gameover">게임 끝</string>
+    <string name="continuee">계속하다</string>
+
+    <string name="rateusbtn">미국 평가</string>
+    <string name="backtogamebtn">게임으로 돌아가기</string>
+
+    <!--    before_watch_video successfully -->
+    <string name="before_watch_video" translatable="false">더 많은 것을 얻으려면 짧은 동영상 광고를 시청하세요.</string>
+
+    <string name="rate_app_text">RATE US</string>
+    <string name="rate_app_text2">이 게임이 마음에 드시면 스토어에서 평가해 주세요.</string>
+
+    <string name="around_the_world_home">세계 각국</string>
+
+    <string name="india">인도</string>
+    <string name="indonesia">인도네시아</string>
+    <string name="japan">일본</string>
+    <string name="korea">한국</string>
+    <string name="russia">러시아</string>
+    <string name="thailand">태국</string>
+    <string name="vietNam">벨기에</string>
+    <string name="belgium">벨기에</string>
+    <string name="france">프랑스</string>
+    <string name="germany">독일</string>
+    <string name="greece">그리스</string>
+    <string name="ireland">아일랜드</string>
+    <string name="italy">이탈리아</string>
+    <string name="portugal">포르투갈</string>
+    <string name="spain">스페인</string>
+    <string name="netherlands">네덜란드</string>
+    <string name="uk">영국</string>
+    <string name="argentina">아르헨티나</string>
+    <string name="brazil">브라질</string>
+    <string name="canada">캐나다</string>
+    <string name="colombia">콜롬비아</string>
+    <string name="mexico">멕시코</string>
+    <string name="peru">페루</string>
+    <string name="usa">미국</string>
+    <string name="moroco">모로코</string>
+    <string name="south_africa">남아프리카</string>
+
+    <string name="will_unlock_when_country_has_15_starts">%1$s 별이 15개가 되면 잠금이 해제됩니다.</string>
+</resources>
